@@ -9,7 +9,7 @@
 
 2. Download mobox_patched_1.0.tar.gz
 
-3. Back up your termux data because it will be replaced .
+3. Back up your termux data or it will be replaced .
 
 Open termux terminal and execute this command. 
 ```bash
