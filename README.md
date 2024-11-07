@@ -13,6 +13,9 @@
 
 Open termux terminal and execute this command. 
 ```bash
+termux-setup-storage
+```
+```bash
 tar -zxf /sdcard/Download/mobox_patched_1.0.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions
 ```
 Done .
