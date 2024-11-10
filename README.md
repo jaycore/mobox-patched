@@ -4,12 +4,12 @@
 
 1. Install
 [Termux](https://f-droid.org/repo/com.termux_118.apk),
-[Termux-X11](https://raw.githubusercontent.com/olegos2/mobox/main/components/termux-x11.apk) and
-[Input Bridge](https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk).
+[Termux-X11](https://raw.githubusercontent.com/olegos2/mobox/main/components/termux-x11.apk),
+[Input Bridge](https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk)and[Xinput Bridge](https://github.com/Ilan12346-maya/XinputBridge/releases/download/1.35/XinputBridge_1.35.apk)
 
-2. Download mobox_patched_1.0.tar.gz
+3. Download mobox_patched_1.0.tar.gz
 
-3. Back up your termux data or it will be replaced .
+4. Back up your termux data or it will be replaced .
 
 Open termux terminal and execute this command. 
 ```bash
