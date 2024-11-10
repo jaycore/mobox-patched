@@ -30,6 +30,10 @@ Credits to olegos2
 
 [Mobox](https://github.com/olegos2/mobox)
 
+[XinputBridge](https://github.com/Ilan12346-maya/XinputBridge)
+
+[K11MCH1 DRIVERS](https://github.com/K11MCH1/WinlatorTurnipDrivers)
+
 [glibc-packages](https://github.com/termux-pacman/glibc-packages)
 
 [Box64](https://github.com/ptitSeb/box64)
