@@ -1,5 +1,9 @@
 ![17309853170228635658176172692341](https://github.com/user-attachments/assets/29444b1f-2342-40ba-b06e-e548dcc53643)
 
+##
+
+`Mobox` is a project designed to run windows x86 applications in [Termux](https://github.com/termux/termux-app) using [Box64](https://github.com/ptitSeb/box64) and [Wine](https://www.winehq.org/).
+
 # Installation 
 
 1. Install
