@@ -11,9 +11,9 @@
 [Termux-X11](https://raw.githubusercontent.com/olegos2/mobox/main/components/termux-x11.apk),
 [Input Bridge](https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk)and[Xinput Bridge](https://github.com/Ilan12346-maya/XinputBridge/releases/download/1.35/XinputBridge_1.35.apk)
 
-3. Download mobox_patched_1.0.tar.gz
+2. Download mobox_patched_1.0.tar.gz
 
-4. Back up your termux data or it will be replaced .
+3. Back up your termux data or it will be replaced .
 
 Open termux terminal and execute this command. 
 ```bash
@@ -22,7 +22,7 @@ termux-setup-storage
 ```bash
 tar -zxf /sdcard/Download/mobox_patched_1.0.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions
 ```
-5. Type `mobox` in termux.
+4. Type `mobox` in termux.
 
 Done.
 
