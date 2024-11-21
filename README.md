@@ -38,6 +38,8 @@ Credits to olegos2
 
 [Xinput Bridge](https://github.com/Ilan12346-maya/XinputBridge)
 
+[airidosas252 wine builds](https://github.com/airidosas252/Wine-Builds)
+
 [K11MCH1 DRIVERS](https://github.com/K11MCH1/WinlatorTurnipDrivers)
 
 [glibc-packages](https://github.com/termux-pacman/glibc-packages)
