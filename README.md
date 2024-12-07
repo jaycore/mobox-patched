@@ -20,7 +20,7 @@ Open termux terminal and execute this command.
 termux-setup-storage
 ```
 ```bash
-tar -zxf /sdcard/Download/mobox_patched_1.0.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions
+tar -zxf /sdcard/Download/mobox_patched_1.0.tar.gz -C /data/data/com.termux/files
 ```
 4. Type `mobox` in termux.
 
@@ -46,8 +46,6 @@ Credits to olegos2
 
 [Box64](https://github.com/ptitSeb/box64)
 
-[Box86](https://github.com/ptitSeb/box86)
-
 [DXVK](https://github.com/doitsujin/dxvk)
 
 [DXVK-ASYNC](https://github.com/Sporif/dxvk-async)
@@ -63,8 +61,6 @@ Credits to olegos2
 [Termux-x11](https://github.com/termux/termux-x11)
 
 [Wine](https://wiki.winehq.org/Licensing)
-
-[wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom)
 
 [Mesa](https://docs.mesa3d.org/license.html)
 
