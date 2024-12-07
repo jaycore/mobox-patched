@@ -31,9 +31,9 @@ tar -zxf /sdcard/Download/mobox_patched_1.1.tar.gz -C /data/data/com.termux/file
 
 Done.
 
-Enable permission access to files and documents in termux app info if you encountered permission error*
+Enable permission access to files and documents in termux app info if you encountered permission error
 
-If you encountered some error messages when you first started mobox just ignore it*
+If you encountered some error messages when you first started mobox just ignore them
 
 Patched by jaycore1991
 
