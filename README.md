@@ -2,7 +2,7 @@
 
 ##
 
-`Mobox` is a project designed to run windows x86 applications in [Termux](https://github.com/termux/termux-app) using [Box64](https://github.com/ptitSeb/box64) and [Wine](https://www.winehq.org/).
+`Mobox patched` is a project designed to run windows x86 applications in [Termux](https://github.com/termux/termux-app) using [Box64](https://github.com/ptitSeb/box64) and [Wine](https://www.winehq.org/).
 
 # Installation 
 
@@ -11,24 +11,31 @@
 [Termux-X11](https://raw.githubusercontent.com/olegos2/mobox/main/components/termux-x11.apk),
 [Input Bridge](https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk)and[Xinput Bridge](https://github.com/Ilan12346-maya/XinputBridge/releases/download/1.35/XinputBridge_1.35.apk)
 
-2. Download mobox_patched_1.0.tar.gz
+2. Download mobox_patched_1.0.tar.gz or mobox_patched_1.1.tar.gz.
 
-3. Back up your termux data or it will be replaced .
+3. Choose your prepared version of mobox patched.
 
 Open termux terminal and execute this command. 
 ```bash
 termux-setup-storage
 ```
+For mobox patched 1.0
+```bash
+tar -zxf /sdcard/Download/mobox_patched_1.1.tar.gz -C /data/data/com.termux/files
+```
+For mobox patched 1.1
 ```bash
 tar -zxf /sdcard/Download/mobox_patched_1.0.tar.gz -C /data/data/com.termux/files
 ```
-4. Type `mobox` in termux.
+4. Wait till the $ sign appeared and type `mobox` in termux.
 
 Done.
 
-*Enable permission access to files and documents in termux app info if you encountered permission error*
+Enable permission access to files and documents in termux app info if you encountered permission error*
 
-*If you encountered some error messages when you first started mobox just ignore it*
+If you encountered some error messages when you first started mobox just ignore it*
+
+Patched by jaycore1991
 
 Credits to olegos2
 
