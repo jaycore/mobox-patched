@@ -35,6 +35,7 @@ Enable permission access to files and documents in termux app info if you encoun
 
 If you encountered some error messages when you first started mobox just ignore them
 
+
 Patched by jaycore1991
 
 Credits to olegos2
