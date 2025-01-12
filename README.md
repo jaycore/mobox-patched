@@ -65,6 +65,8 @@ Credits to olegos2
 
 [DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
 
+[DXVK-SAREK](https://github.com/pythonlover02/DXVK-Sarek/tree/1.10.x-Proton-Sarek)
+
 [VKD3D](https://github.com/lutris/vkd3d)
 
 [D8VK](https://github.com/AlpyneDreams/d8vk)
