@@ -27,6 +27,11 @@ For mobox patched 1.1
 ```bash
 tar -zxf /sdcard/Download/mobox_patched_1.1.tar.gz -C /data/data/com.termux/files
 ```
+For mobox patched 1.2
+```bash
+tar -zxf /sdcard/Download/mobox_patched_1.2.tar.gz -C /data/data/com.termux/files
+```
+
 4. Wait till the $ sign appeared and type `mobox` in termux.
 
 Done.
