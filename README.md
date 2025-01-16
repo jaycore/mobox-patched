@@ -11,8 +11,8 @@
 [Termux-X11](https://raw.githubusercontent.com/olegos2/mobox/main/components/termux-x11.apk),
 [Input Bridge](https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk)and[Xinput Bridge](https://github.com/Ilan12346-maya/XinputBridge/releases/download/1.35/XinputBridge_1.35.apk)
 
-2. Download mobox_patched_1.0.tar.gz or mobox_patched_1.1.tar.gz.
-
+2. Download file tar.gz at [releases](
+https://github.com/jaycore/mobox-patched/releases)
 3. Choose your prepared version of mobox patched.
 
 Open termux terminal and execute this command. 
